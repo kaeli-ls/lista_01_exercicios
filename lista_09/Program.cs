@@ -9,3 +9,5 @@ erro.
 o Exemplo de Saída: "Domingo", "Segunda-feira", etc., ou "Número inválido. 
 Digite um número de 1 a 7"
 */
+
+//Pedindo ao usuário um numero para mostrar o dia da semana

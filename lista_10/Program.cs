@@ -19,5 +19,8 @@ if (preco >= 100)
     Console.WriteLine("Compras acima de R$100 possuem 10% desconto.");
     Console.WriteLine($"O valor da compra com desconto é de R${preco - (preco * desconto / 100)}");
 }
-Console.WriteLine("Compras abaixo de R$100 não possuem desconto."):
-Console.WriteLine("O Valor segue o mesmo R${preco}");
+else
+{
+    Console.WriteLine("Compras abaixo de R$100 não possuem desconto.");
+    Console.WriteLine($"O Valor continua R${preco}");
+}

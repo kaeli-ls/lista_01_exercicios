@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_01", "lista_o1\lista_01.csproj", "{6D3133C9-095A-4A31-92A2-C2D57BE64DBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_02", "lista_02\lista_02.csproj", "{05182DC4-83CC-4BCC-804E-7DED75015321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_02", "lista_02\lista_02.csproj", "{05182DC4-83CC-4BCC-804E-7DED75015321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_03", "lista_03\lista_03.csproj", "{71842D4E-3BAB-40AE-A2E0-9809FDDBE01F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_03", "lista_03\lista_03.csproj", "{71842D4E-3BAB-40AE-A2E0-9809FDDBE01F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_04", "lista_04\lista_04.csproj", "{748CAD5E-04A2-4B2F-A762-6C8E43B0BC9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_04", "lista_04\lista_04.csproj", "{748CAD5E-04A2-4B2F-A762-6C8E43B0BC9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_05", "lista_05\lista_05.csproj", "{E84EDF9B-13D1-4267-97D8-644B74DEE4B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_05", "lista_05\lista_05.csproj", "{E84EDF9B-13D1-4267-97D8-644B74DEE4B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_06", "lista_06\lista_06.csproj", "{D50F67A0-C64E-46F4-AE79-9C480FC2361B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_06", "lista_06\lista_06.csproj", "{D50F67A0-C64E-46F4-AE79-9C480FC2361B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_07", "lista_07\lista_07.csproj", "{06F94F3E-4A24-4D82-90A0-0235A1F0B8DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_07", "lista_07\lista_07.csproj", "{06F94F3E-4A24-4D82-90A0-0235A1F0B8DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_08", "lista_08\lista_08.csproj", "{4AA91FD0-64B5-4D8D-B512-7F9F382A8BC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_08", "lista_08\lista_08.csproj", "{4AA91FD0-64B5-4D8D-B512-7F9F382A8BC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_09", "lista_09\lista_09.csproj", "{271236C2-6ABE-479A-AA23-E98F9BE5E020}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_09", "lista_09\lista_09.csproj", "{271236C2-6ABE-479A-AA23-E98F9BE5E020}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_10", "lista_10\lista_10.csproj", "{B5FF761B-0C49-422D-972F-8BEC207CEDDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_10", "lista_10\lista_10.csproj", "{B5FF761B-0C49-422D-972F-8BEC207CEDDA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_01", "lista_01\lista_01.csproj", "{058A1DFD-363F-490B-9A44-8327698A23A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6D3133C9-095A-4A31-92A2-C2D57BE64DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D3133C9-095A-4A31-92A2-C2D57BE64DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6D3133C9-095A-4A31-92A2-C2D57BE64DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6D3133C9-095A-4A31-92A2-C2D57BE64DBB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{05182DC4-83CC-4BCC-804E-7DED75015321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{05182DC4-83CC-4BCC-804E-7DED75015321}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05182DC4-83CC-4BCC-804E-7DED75015321}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +65,10 @@ Global
 		{B5FF761B-0C49-422D-972F-8BEC207CEDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5FF761B-0C49-422D-972F-8BEC207CEDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5FF761B-0C49-422D-972F-8BEC207CEDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{058A1DFD-363F-490B-9A44-8327698A23A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058A1DFD-363F-490B-9A44-8327698A23A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058A1DFD-363F-490B-9A44-8327698A23A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058A1DFD-363F-490B-9A44-8327698A23A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

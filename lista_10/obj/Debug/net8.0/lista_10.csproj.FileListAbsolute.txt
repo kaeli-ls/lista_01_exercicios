@@ -12,3 +12,4 @@ C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\li
 C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_10\obj\Debug\net8.0\lista_10.pdb
 C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_10\obj\Debug\net8.0\lista_10.genruntimeconfig.cache
 C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_10\obj\Debug\net8.0\ref\lista_10.dll
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_10\obj\Debug\net8.0\lista_10.sourcelink.json
