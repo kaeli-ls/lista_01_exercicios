@@ -15,6 +15,7 @@ int numero1 = int.Parse(Console.ReadLine());
 Console.Write("Digite outro número ");
 int numero2 = int.Parse(Console.ReadLine());
 
+//Verificando e determinando se é maior, menor ou igual
 if (numero1 > numero2)
 {
     Console.WriteLine($"{numero1} é maior que o {numero2}");
