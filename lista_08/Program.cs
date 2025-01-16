@@ -8,9 +8,11 @@ a mensagem correspondente.
 o Exemplo de Saída: "Você pode votar." ou "Você não pode votar."
 */
 
+//Solicitando a idade do usuário
 Console.Write("Para acessar a urna, digite sua idade: ");
 int idade = int.Parse(Console.ReadLine());
 
+//Verificando se o usuário pode votar
 if (idade >= 16)
 {
     Console.WriteLine("Acesso liberado");

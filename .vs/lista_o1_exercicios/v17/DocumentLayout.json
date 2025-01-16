@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AA91FD0-64B5-4D8D-B512-7F9F382A8BC0}|lista_08\\lista_08.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA91FD0-64B5-4D8D-B512-7F9F382A8BC0}|lista_08\\lista_08.csproj|solutionrelative:lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06F94F3E-4A24-4D82-90A0-0235A1F0B8DE}|lista_07\\lista_07.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F94F3E-4A24-4D82-90A0-0235A1F0B8DE}|lista_07\\lista_07.csproj|solutionrelative:lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5FF761B-0C49-422D-972F-8BEC207CEDDA}|lista_10\\lista_10.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FF761B-0C49-422D-972F-8BEC207CEDDA}|lista_10\\lista_10.csproj|solutionrelative:lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA91FD0-64B5-4D8D-B512-7F9F382A8BC0}|lista_08\\lista_08.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA91FD0-64B5-4D8D-B512-7F9F382A8BC0}|lista_08\\lista_08.csproj|solutionrelative:lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{271236C2-6ABE-479A-AA23-E98F9BE5E020}|lista_09\\lista_09.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{271236C2-6ABE-479A-AA23-E98F9BE5E020}|lista_09\\lista_09.csproj|solutionrelative:lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06F94F3E-4A24-4D82-90A0-0235A1F0B8DE}|lista_07\\lista_07.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06F94F3E-4A24-4D82-90A0-0235A1F0B8DE}|lista_07\\lista_07.csproj|solutionrelative:lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5FF761B-0C49-422D-972F-8BEC207CEDDA}|lista_10\\lista_10.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF761B-0C49-422D-972F-8BEC207CEDDA}|lista_10\\lista_10.csproj|solutionrelative:lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D50F67A0-C64E-46F4-AE79-9C480FC2361B}|lista_06\\lista_06.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_10\\Program.cs",
               "RelativeDocumentMoniker": "lista_10\\Program.cs",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "lista_10\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:30:27.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:30:27.102Z"
             },
             {
               "$type": "Document",
@@ -80,28 +79,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_08\\Program.cs",
               "RelativeDocumentMoniker": "lista_08\\Program.cs",
               "ToolTip": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_08\\Program.cs",
               "RelativeToolTip": "lista_08\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T17:29:04.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_07\\Program.cs",
               "RelativeDocumentMoniker": "lista_07\\Program.cs",
               "ToolTip": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_07\\Program.cs",
               "RelativeToolTip": "lista_07\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:28:26.415Z"
+              "WhenOpened": "2025-01-16T17:28:26.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

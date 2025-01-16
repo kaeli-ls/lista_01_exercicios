@@ -8,3 +8,22 @@ adequada.
 o Exemplo de Saída: "O primeiro número é maior.", "O segundo número é 
 maior." ou "Os números são iguais."
 */
+
+//Solicitando dois numero ao usuário
+Console.Write("Digite um número ");
+int numero1 = int.Parse(Console.ReadLine());
+Console.Write("Digite outro número ");
+int numero2 = int.Parse(Console.ReadLine());
+
+if (numero1 > numero2)
+{
+    Console.WriteLine($"{numero1} é maior que o {numero2}");
+}
+else if  (numero1 < numero2)
+{
+    Console.WriteLine($"{numero1} é menor que o {numero2}");
+}
+else
+{
+    Console.WriteLine("Os numeros são iguais");
+}
