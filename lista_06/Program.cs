@@ -9,9 +9,7 @@ nota em categorias: "Excelente"(nota >= 9), "Boa"(7 <= nota < 9), "Regular"
 o Exemplo de Saída: "Excelente", "Boa", "Regular" ou "Baixa"
 */
 
-// Solicitar as nota do aluno
-using System.Runtime.InteropServices;
-
+// Solicitando a nota do aluno
 Console.WriteLine("Digte sua nota: ");
 double nota = double.Parse(Console.ReadLine());
 

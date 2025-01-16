@@ -10,8 +10,7 @@ o Exemplo de Saída: "Domingo", "Segunda-feira", etc., ou "Número inválido.
 Digite um número de 1 a 7"
 */
 
-using System;
-using System.Collections;
+
 //Pedindo ao usuário um numero para mostrar o dia da semana
 Console.WriteLine("Vamos mostrar o dia da semana");
 Console.WriteLine("Digite um numero: ");

@@ -9,3 +9,20 @@ o resultado.
 o Exemplo de Saída: "O número está entre 1 e 100." ou "O número não está 
 entre 1 e 100."
 */
+
+
+
+//Solicitando um numero ao usuário
+Console.Write("Digite um número ");
+int numero = int.Parse(Console.ReadLine());
+List<int> lista = Enumerable.Range(1, 100).ToList();
+
+//Verificando se o numero está no intervalo de 1 a 100
+if (lista.Contains(numero))
+{
+    Console.WriteLine($"O numero {numero} está no intervalo de 1 a 100");
+}
+else
+{
+    Console.WriteLine($"O numero {numero} não está no intervalo de 1 a 100");
+}

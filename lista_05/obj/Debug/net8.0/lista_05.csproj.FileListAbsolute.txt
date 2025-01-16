@@ -1,0 +1,15 @@
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\bin\Debug\net8.0\lista_05.exe
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\bin\Debug\net8.0\lista_05.deps.json
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\bin\Debug\net8.0\lista_05.runtimeconfig.json
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\bin\Debug\net8.0\lista_05.dll
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\bin\Debug\net8.0\lista_05.pdb
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\obj\Debug\net8.0\lista_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\obj\Debug\net8.0\lista_05.AssemblyInfoInputs.cache
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\obj\Debug\net8.0\lista_05.AssemblyInfo.cs
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\obj\Debug\net8.0\lista_05.csproj.CoreCompileInputs.cache
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\obj\Debug\net8.0\lista_05.sourcelink.json
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\obj\Debug\net8.0\lista_05.dll
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\obj\Debug\net8.0\refint\lista_05.dll
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\obj\Debug\net8.0\lista_05.pdb
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\obj\Debug\net8.0\lista_05.genruntimeconfig.cache
+C:\Users\kaiky.lscorreia\source\repos\lista_01_exercicios\lista_o1_exercicios\lista_05\obj\Debug\net8.0\ref\lista_05.dll
