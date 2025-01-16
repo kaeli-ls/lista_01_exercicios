@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{271236C2-6ABE-479A-AA23-E98F9BE5E020}|lista_09\\lista_09.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{271236C2-6ABE-479A-AA23-E98F9BE5E020}|lista_09\\lista_09.csproj|solutionrelative:lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06F94F3E-4A24-4D82-90A0-0235A1F0B8DE}|lista_07\\lista_07.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06F94F3E-4A24-4D82-90A0-0235A1F0B8DE}|lista_07\\lista_07.csproj|solutionrelative:lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271236C2-6ABE-479A-AA23-E98F9BE5E020}|lista_09\\lista_09.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271236C2-6ABE-479A-AA23-E98F9BE5E020}|lista_09\\lista_09.csproj|solutionrelative:lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5FF761B-0C49-422D-972F-8BEC207CEDDA}|lista_10\\lista_10.csproj|c:\\users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -63,12 +63,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T17:29:04.341Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_07\\Program.cs",
               "RelativeDocumentMoniker": "lista_07\\Program.cs",
@@ -82,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_09\\Program.cs",
               "RelativeDocumentMoniker": "lista_09\\Program.cs",
               "ToolTip": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_09\\Program.cs",
               "RelativeToolTip": "lista_09\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T17:29:49.155Z",
               "EditorCaption": ""
@@ -103,8 +102,7 @@
               "RelativeToolTip": "lista_10\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:30:27.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:30:27.102Z"
             },
             {
               "$type": "Document",
@@ -116,8 +114,7 @@
               "RelativeToolTip": "lista_06\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:27:23.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:27:23.145Z"
             },
             {
               "$type": "Document",
@@ -129,8 +126,7 @@
               "RelativeToolTip": "lista_05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:26:46.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:26:46.04Z"
             },
             {
               "$type": "Document",
@@ -142,8 +138,7 @@
               "RelativeToolTip": "lista_04\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:25:46.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:25:46.826Z"
             },
             {
               "$type": "Document",
@@ -155,8 +150,7 @@
               "RelativeToolTip": "lista_03\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:23:40.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:23:40.135Z"
             },
             {
               "$type": "Document",
@@ -168,8 +162,7 @@
               "RelativeToolTip": "lista_02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwAUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:21:55.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:21:55.195Z"
             },
             {
               "$type": "Document",
@@ -181,8 +174,7 @@
               "RelativeToolTip": "lista_01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:52:30.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:52:30.702Z"
             }
           ]
         }
