@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_10\\lista_10.csproj",
+      "projectUniqueName": "C:\\Users\\kaiky.lscorreia\\Documents\\lista_01_exercicios\\lista_10\\lista_10.csproj",
       "projectName": "lista_10",
-      "projectPath": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_10\\lista_10.csproj",
+      "projectPath": "C:\\Users\\kaiky.lscorreia\\Documents\\lista_01_exercicios\\lista_10\\lista_10.csproj",
       "packagesPath": "C:\\Users\\kaiky.lscorreia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_10\\obj\\",
+      "outputPath": "C:\\Users\\kaiky.lscorreia\\Documents\\lista_01_exercicios\\lista_10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

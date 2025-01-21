@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_07\\lista_07.csproj": {}
+    "C:\\Users\\kaiky.lscorreia\\Documents\\lista_01_exercicios\\lista_07\\lista_07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_07\\lista_07.csproj": {
+    "C:\\Users\\kaiky.lscorreia\\Documents\\lista_01_exercicios\\lista_07\\lista_07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_07\\lista_07.csproj",
+        "projectUniqueName": "C:\\Users\\kaiky.lscorreia\\Documents\\lista_01_exercicios\\lista_07\\lista_07.csproj",
         "projectName": "lista_07",
-        "projectPath": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_07\\lista_07.csproj",
+        "projectPath": "C:\\Users\\kaiky.lscorreia\\Documents\\lista_01_exercicios\\lista_07\\lista_07.csproj",
         "packagesPath": "C:\\Users\\kaiky.lscorreia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaiky.lscorreia\\source\\repos\\lista_01_exercicios\\lista_o1_exercicios\\lista_07\\obj\\",
+        "outputPath": "C:\\Users\\kaiky.lscorreia\\Documents\\lista_01_exercicios\\lista_07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

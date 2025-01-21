@@ -1,0 +1,15 @@
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\bin\Debug\net8.0\teste_github.exe
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\bin\Debug\net8.0\teste_github.deps.json
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\bin\Debug\net8.0\teste_github.runtimeconfig.json
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\bin\Debug\net8.0\teste_github.dll
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\bin\Debug\net8.0\teste_github.pdb
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.AssemblyInfoInputs.cache
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.AssemblyInfo.cs
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.csproj.CoreCompileInputs.cache
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.sourcelink.json
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.dll
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\refint\teste_github.dll
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.pdb
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\teste_github.genruntimeconfig.cache
+C:\Users\kaiky.lscorreia\Documents\lista_01_exercicios\teste_github\obj\Debug\net8.0\ref\teste_github.dll
